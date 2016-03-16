@@ -1,0 +1,21 @@
+body{
+	background-color: white;
+}
+
+
+.container{
+	margin:5px auto;
+	background-color: #E4E4E4;
+	border:1px solid #BDBDBD;
+	padding:5px;
+}
+
+.panel{
+	margin:10px;
+}
+
+
+.nav{
+	color:#333;
+	margin:5px auto;
+}
